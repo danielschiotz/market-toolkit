@@ -121,6 +121,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
 - [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
 - [Finviz Recent News](https://www.finviz.com/news.ashx)
+- **[ScreeningTale - Screening, Backtesting and Historical Data](https://www.screeningtale.com)**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
@@ -184,6 +185,7 @@ There are two general approaches to investing: active and passive. Active invest
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
 - **[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)** *(AKA ToS, from TD Ameritrade)*
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
+- **[ScreeningTale - Visualization and Screening on Oscillators, Indicators and Patterns](https://www.screeningtale.com)**
 ###### [TOC](#toc)
 ---
 **<a id="fa-education"></a>FUNDAMENTAL ANALYSIS (Education):**
@@ -199,6 +201,7 @@ There are two general approaches to investing: active and passive. Active invest
 ---
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
+- **[ScreeningTale - Screening, Backtesting and Visualization of Data](https://www.screeningtale.com)**
 - **[Finviz - Financial Visualizations](https://www.finviz.com)**
 - **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
 - [Finbox](https://www.finbox.com)
@@ -216,6 +219,7 @@ There are two general approaches to investing: active and passive. Active invest
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
+- **[ScreeningTale - Screener & Backtest](https://www.screeningtale.com)**
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
 - **[LazyFA Screener](https://www.lazyfa.com/screener)**
 - **[Tiingo Screener](https://www.tiingo.com/screener/overview)**
